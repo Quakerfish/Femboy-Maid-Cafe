@@ -41,4 +41,3 @@ java femboy_maid_cafe
 
 - `femboy_maid_cafe.java` - application source code.
 - `receipt-sample.jfif` - sample receipt image.
-- `Femboy_Maid_Cafe_Project_Documentation_Redone.docx` - project documentation.
