@@ -10,10 +10,18 @@ The menu and orders are kept in memory while the program is running. They reset 
 - Visual Studio Code.
 - The **Extension Pack for Java** installed in VS Code.
 
+## Download the project
+
+1. Open this repository on GitHub.
+2. Click the **<> Code** button near the top of the repository page.
+3. Select **Download ZIP** from the menu.
+4. Once the ZIP file has downloaded, extract it to a folder on your computer.
+5. In VS Code, choose **File > Open Folder...** and open the extracted project folder.
+
 ## Run in VS Code
 
 1. Install a JDK and the **Extension Pack for Java** from the VS Code Extensions view.
-2. Open this project folder in VS Code: **File > Open Folder...** and select the folder containing `femboy_maid_cafe.java`.
+2. Open the project folder in VS Code if it is not already open.
 3. Open `femboy_maid_cafe.java`.
 4. If VS Code asks to configure the Java project, allow it. The Java extension will detect the file and prepare it for running.
 5. Click the **Run** button at the top-right of the editor, or go to **Run > Run Without Debugging** in the menu bar.
